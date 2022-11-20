@@ -1,7 +1,7 @@
 {
-  "name": "sprint-1",
+  "name": "Community-Porsche-JS",
   "version": "1.0.0",
-  "description": "",
+  "description": "Яндекс практикум: Мидл фронтенд-разработчик",
   "main": "server.js",
   "scripts": {
     "dev": "parcel public/index.html --no-cache --open",
